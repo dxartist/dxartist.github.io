@@ -9,15 +9,15 @@ markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
-url: http://nadjetey.github.io
+url: http://dxartist.github.io
 permalink: /:year/:month/:title/
 owner:
-    name: Nii Adjetey
-    twitter: _nadjetey
-    github: nadjetey
-    disqus_shortname: nadjetey
+    name: Sharath Kumar
+    twitter: sharathdt
+    github: dxartist
+    disqus_shortname: 
 
-ga_id: UA-48177899-1
+ga_id: 
 ga_username: nadjetey.github.io
 
-timezone: Africa/Accra
+timezone: 
