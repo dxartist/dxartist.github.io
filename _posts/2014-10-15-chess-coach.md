@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why did I become a chess coach?"
-date:   2014-01-02 21:30:26
+date:   2014-10-16 21:30:26
 comments: true
 tags: chess coach
 archive: true
