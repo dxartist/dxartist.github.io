@@ -6,7 +6,7 @@ comments: true
 tags: dxartist_blog
 archive: true
 ---
-I'm a developer for past 1 years and I think I should evolve! A blog can provide more content thank a website. Development is constant and there is no end to it. 
+I'm a developer for past 1 year and I think I should evolve! A blog can provide more content thank a website. Development is constant and there is no end to it. 
 
 I'll be posting things that fascinate developers. So keep checking my blog.
 
