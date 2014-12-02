@@ -19,7 +19,7 @@ Hi, I'm an employee in Cognizant Technology Solutions. Recently I was searching 
 ![_config.yml](https://lh5.googleusercontent.com/xDsrSaQPZaLDWCQMJi6QhxzWtBtfAfX66pjM3oh_7SI=w624-h305-no)
 
 You can download the app [here](https://play.google.com/store/apps/details?id=com.dt.sharath.quickcognizant).
-I decided that the logo should have a 'C' with the same font as in Cognizant logo just to relate with the company. This is my first try at creating an Android app. So as you can predict the app is not complete and needs a lot of improvements. I'm finding it hard to improve the app along with my work schedule and other activities I have. I'm looking for developers who can take up the task of improving this app. This can be an opportunity to work for a community.
+I decided that the logo should have a 'C' with the same font as in Cognizant logo just to relate with the company. The app is not complete and needs a lot of improvements. I'm finding it hard to improve the app along with my work schedule and other activities I have. I'm looking for developers who can take up the task of improving this app. This can be an opportunity to work for a community.
 
 ## How you can help me? ##
 
