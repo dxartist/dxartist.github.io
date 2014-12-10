@@ -4,7 +4,7 @@ title:  "Why a blog?"
 date:   2014-01-02 21:30:26
 comments: true
 tags: dxartist_blog
-archive: true
+archive: false
 ---
 I'm a developer for past 1 year and I think I should evolve! A blog can provide more content than a website. Development is constant and there is no end to it. 
 
