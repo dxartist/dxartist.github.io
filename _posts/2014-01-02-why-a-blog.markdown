@@ -6,7 +6,7 @@ comments: true
 tags: dxartist_blog
 archive: false
 ---
-I'm a developer for past 1 year and I think I should evolve! A blog can provide more content than a website. Development is constant and there is no end to it. 
+I'm a developer for past 1 year and I think I should evolve! A blog can provide more content than a website. I'll be posting things that I personally face in the course of development or in life. There are always things to learn. I believe youtube is a great platform to learn things through video. I have learnt simple things like 'breaking eggs with one hand' to very complex things like 'solving Rubiks cube' through youtube. Youtube is like a big ocean of knowledge. Use it for your development, in every step. Currently II'm learning polymer.  
 
 I'll be posting things that fascinate developers. So keep checking my blog.
 
