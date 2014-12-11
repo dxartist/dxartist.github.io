@@ -29,4 +29,3 @@ This workaround should solve the problem.
 
 Thanks for reading!
 
--------------------
