@@ -19,3 +19,14 @@ Configuration file: C:/Users/rdquintas/Desktop/jek/zrq/_config.yml
   Liquid Exception: cannot load such file -- yajl/2.0/yajl in _posts/2014-05-21-
 welcome-to-jekyll.markdown
 </pre>
+
+This may happen because of the incompatibility of Ruby version. Or there may not be pygments gem installed (This may happen even after installing pygments)
+
+So the workaround for this issue is to change the **highlighter** option in <code>_config.yml</code>. 
+If it is mentioned as <code>pygments</code> change it to <code>rouge</code>
+
+This workaround should solve the problem.
+
+Thanks for reading!
+
+-------------------
