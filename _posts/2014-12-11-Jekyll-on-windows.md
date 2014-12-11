@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll on Windows error"
+title:  "Jekyll on Windows Error"
 date:   2014-01-02 21:30:26
 comments: true
 tags: dxartist_blog
