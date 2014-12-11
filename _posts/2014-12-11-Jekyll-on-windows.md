@@ -10,7 +10,7 @@ I'm not going to explain the process of setting up Jekyll in Windows. There are 
 
 Whenever you are trying to build a jekyll site or editing the forked repository locally, you may face this issue.
 
-<code>
+<pre>
 C:\Users\rdquintas\Desktop\jek\zrq>jekyll build
 Configuration file: C:/Users/rdquintas/Desktop/jek/zrq/_config.yml
             Source: C:/Users/rdquintas/Desktop/jek/zrq
@@ -18,4 +18,4 @@ Configuration file: C:/Users/rdquintas/Desktop/jek/zrq/_config.yml
       Generating...
   Liquid Exception: cannot load such file -- yajl/2.0/yajl in _posts/2014-05-21-
 welcome-to-jekyll.markdown
-</code>
+</pre>
