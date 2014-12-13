@@ -29,4 +29,4 @@ I decided that the logo should have a 'C' with the same font as in Cognizant log
 
 3. Back button directly exits the user from the app ( navigation should be sorted out)
 
-Those who want to help me with this, please contact me by clicking on the icon on the footer.
+Those who want to help me with this, please contact me by clicking on the icon on the top-right corner.
