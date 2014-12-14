@@ -13,7 +13,7 @@ baseurl:	/
 url: 
 permalink: /:year/:month/:title/
 owner:
-    name: Sharath Kumar
+    name: dxartist
     twitter: sharathdt
     github: dxartist
     disqus_shortname: dxartist
