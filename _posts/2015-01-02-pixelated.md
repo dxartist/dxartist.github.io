@@ -16,7 +16,7 @@ from this
 ![Pixelation effect](/images/pix-web-before.jpg)
 
 Get the PSD here
-[Pixelate](/assets/download/pixelated.zip)
+[Pixelate](/assets/download/Pixelated.zip)
 
 
 
